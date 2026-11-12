@@ -1,0 +1,68 @@
+{
+  "variants": {
+    "buzzed=false,facing=north,half=lower": {
+      "model": "voicechair2:block/voice_chair_lower",
+      "y": 0
+    },
+    "buzzed=true,facing=north,half=lower": {
+      "model": "voicechair2:block/voice_chair_lower_buzzed",
+      "y": 0
+    },
+    "buzzed=false,facing=north,half=upper": {
+      "model": "voicechair2:block/voice_chair_upper",
+      "y": 0
+    },
+    "buzzed=true,facing=north,half=upper": {
+      "model": "voicechair2:block/voice_chair_upper_buzzed",
+      "y": 0
+    },
+    "buzzed=false,facing=east,half=lower": {
+      "model": "voicechair2:block/voice_chair_lower",
+      "y": 90
+    },
+    "buzzed=true,facing=east,half=lower": {
+      "model": "voicechair2:block/voice_chair_lower_buzzed",
+      "y": 90
+    },
+    "buzzed=false,facing=east,half=upper": {
+      "model": "voicechair2:block/voice_chair_upper",
+      "y": 90
+    },
+    "buzzed=true,facing=east,half=upper": {
+      "model": "voicechair2:block/voice_chair_upper_buzzed",
+      "y": 90
+    },
+    "buzzed=false,facing=south,half=lower": {
+      "model": "voicechair2:block/voice_chair_lower",
+      "y": 180
+    },
+    "buzzed=true,facing=south,half=lower": {
+      "model": "voicechair2:block/voice_chair_lower_buzzed",
+      "y": 180
+    },
+    "buzzed=false,facing=south,half=upper": {
+      "model": "voicechair2:block/voice_chair_upper",
+      "y": 180
+    },
+    "buzzed=true,facing=south,half=upper": {
+      "model": "voicechair2:block/voice_chair_upper_buzzed",
+      "y": 180
+    },
+    "buzzed=false,facing=west,half=lower": {
+      "model": "voicechair2:block/voice_chair_lower",
+      "y": 270
+    },
+    "buzzed=true,facing=west,half=lower": {
+      "model": "voicechair2:block/voice_chair_lower_buzzed",
+      "y": 270
+    },
+    "buzzed=false,facing=west,half=upper": {
+      "model": "voicechair2:block/voice_chair_upper",
+      "y": 270
+    },
+    "buzzed=true,facing=west,half=upper": {
+      "model": "voicechair2:block/voice_chair_upper_buzzed",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "voicechair2:block/buzzer_button"
+    }
+  }
+}

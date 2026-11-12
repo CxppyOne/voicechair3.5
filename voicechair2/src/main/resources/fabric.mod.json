@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "voicechair2",
+  "version": "${version}",
+  "name": "Voice Chair",
+  "description": "Jurystuehle im Stil von The Voice Kids mit Buzzer-Knopf und Namensfliesen.",
+  "authors": ["Du"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.example.voicechair2.VoiceChairMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": "~26.1",
+    "fabric-api": "*"
+  }
+}
